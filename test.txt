@@ -1,0 +1,10 @@
+create_bus 10
+tickets_book 3,4,5 Sonu
+tickets_book 8,12,9 Sonu
+cancel_tickets 3,4 r
+status
+
+
+
+
+
